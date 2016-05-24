@@ -1,0 +1,27 @@
+{
+  "name": "sportstore",
+  "version": "1.0.0",
+  "description": "Sports Merchandise Store for practice using Angular JS",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antiquation/sportStore.git"
+  },
+  "keywords": [
+    "sport",
+    "store"
+  ],
+  "author": "Rick Villucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antiquation/sportStore/issues"
+  },
+  "homepage": "https://github.com/Antiquation/sportStore#readme"
+}
